@@ -1,4 +1,4 @@
-# Ineuron-internship
+# Ineuron Project
 Machine Learning algorithms are utilized for restaurant rating  prediction.
 Demo app link -https://zomatoratepredictor.herokuapp.com/
 # Team member
